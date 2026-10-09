@@ -1,6 +1,6 @@
 # Space-Debris
 
-**Videos**  
+### **Videos**  
 (Please set quality to at least 720p)  
 
 Simulation Setup
